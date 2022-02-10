@@ -9,7 +9,7 @@ In DEV mode you can notice that  the app will slow down when you're adding more 
 Anyway this won't be a problem in production mode where there won't be slowdowns.
 
 
-## Formik Validations Schemas
+## Formik Validation Schemas
 
 I added some validation schemas , probably they could be done better for some fields but it was just to give an idea about Formik validation
 
