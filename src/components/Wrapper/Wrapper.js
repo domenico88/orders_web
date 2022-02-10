@@ -87,7 +87,10 @@ const Wrapper = () => {
             },
             items: values.items,
             merchant: values.merchant,
-            totalAmount: { amount: values.amount.toString(), currency: values.currency },
+            totalAmount: {
+              amount: values.amount.toString(),
+              currency: values.currency,
+            },
           },
         };
         axios
