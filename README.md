@@ -4,7 +4,7 @@ Run "npm install" and then "npm start" to start the app in dev mode.
 
 If you want to run it in production mode you can install "serve" npm install serve -g and then you can use "npm run build" and "serve -s build" to start the application.
 
-In DEV mode youn can notice that maybe the app will slow down when you're adding more items. This is due to a Formik bug with Material UI library.
+In DEV mode you can notice that  the app will slow down when you're adding more items. This is due to a Formik bug with Material UI library.
 
 Anyway this won't be a problem in production mode where there won't be slowdowns.
 
