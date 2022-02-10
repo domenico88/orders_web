@@ -1,0 +1,32 @@
+html,
+head,
+body {
+  height: 100%;
+}
+
+#root {
+  height: 100%;
+}
+
+.navbar {
+  height: 60px;
+  width: 100%;
+  background-color: #f0f0f0;
+}
+
+.labels {
+  font-weight: 700;
+  display: block;
+  font-size: 26px;
+  margin-top: 30px;
+}
+
+.sublabels{
+  font-weight: 700;
+  display: block;
+  font-size: 15px;
+  margin-top: 20px;
+}
+.css-10mzr36-MuiGrid-root>.MuiGrid-item{
+  margin-top: 10px;
+}
